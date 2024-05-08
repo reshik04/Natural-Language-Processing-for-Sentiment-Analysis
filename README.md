@@ -28,8 +28,4 @@ This project requires Python 3.x and the following Python libraries installed:
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ---
